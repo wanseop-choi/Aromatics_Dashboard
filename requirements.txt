@@ -20,3 +20,5 @@ jsonpointer==3.0.0
 jsonschema==4.23.0
 jsonschema-specifications==2024.10.1
 streamlit-option-menu==0.4.0
+plotly==5.24.1
+plotly-resampler==0.10.0
